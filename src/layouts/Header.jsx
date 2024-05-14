@@ -20,6 +20,7 @@ export default function Header() {
                     <span className="sr-only">Open sidebar</span>
                     <Bars3Icon className="h-5 w-5" aria-hidden="true" />
                 </button>
+
                 <div className="flex flex-1 gap-x-4 self-stretch lg:gap-x-6"> </div>
             </div>
         </>
